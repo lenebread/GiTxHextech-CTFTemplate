@@ -23,7 +23,7 @@ challenge_name/
     ├─ README.md
 ```
 
-*note: please ensure that your `README.md` & `chall.yaml` contains the same information*
+*note: please ensure that your `README.md` & `challenge.yaml` contains the same information*
 
 - `dist`
   - This folder contains all the files that **will be given** to the participants, leave this folder empty if none.
