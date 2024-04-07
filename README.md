@@ -1,6 +1,6 @@
 # HexTech-GiT-GvB-CTF
 
-Challenge repo for GiT/HexTech CTF
+Challenge submission template for GiT/HexTech CTF
 
 ## Submission Template
 The challenge & file structure should look like this:
